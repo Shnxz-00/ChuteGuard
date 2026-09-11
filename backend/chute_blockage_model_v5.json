@@ -1,0 +1,22 @@
+{
+  "model": "/data/chute_blockage_model_v5.npz",
+  "feature_version": "v5_letterbox96_stationary_wall_vs_flow",
+  "class_low": "low_or_moving_flow",
+  "class_high": "active_stationary_wall_buildup",
+  "labeling_note": "Original minimal frames plus the two new supplied videos are treated as non-blocking/flow negatives; original blocked frames are treated as stationary wall-buildup positives.",
+  "source_frames": 1279,
+  "augmented_train_samples": 5115,
+  "test_frames": 256,
+  "time_ordered_test_accuracy": 0.9922,
+  "confusion_matrix_rows_true_cols_pred": [
+    [
+      217,
+      2
+    ],
+    [
+      0,
+      37
+    ]
+  ],
+  "warning": "Two short videos and two buildup states cannot establish field accuracy or a calibrated continuous percentage."
+}

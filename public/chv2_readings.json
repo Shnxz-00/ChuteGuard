@@ -1,0 +1,3627 @@
+[
+  {
+    "t": 0.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 0.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 0.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 0.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 0.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 0.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 0.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 0.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 0.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 0.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 1.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 1.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 1.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 1.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 1.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 1.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 1.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 1.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 1.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 1.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 2.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 2.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 2.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 2.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 2.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 2.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 2.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 2.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 2.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 2.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 3.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 3.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 3.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 3.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 3.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 3.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 3.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 3.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 3.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 3.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 4.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 4.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 4.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 4.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 4.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 4.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 4.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 4.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 4.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 4.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 5.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 5.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 5.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 5.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 5.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 5.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 5.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 5.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 5.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 5.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 6.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 6.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 6.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 6.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 6.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 6.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 6.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 6.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 6.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 6.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 7.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 7.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 7.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 7.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 7.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 7.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 7.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 7.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 7.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 7.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 8.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 8.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 8.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 8.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 8.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 8.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 8.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 8.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 8.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 8.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 9.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 9.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 9.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 9.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 9.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 9.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 9.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 9.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 9.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 9.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 10.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 10.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 10.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 10.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 10.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 10.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 10.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 10.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 10.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 10.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 11.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 11.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 11.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 11.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 11.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 11.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 11.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 11.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 11.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 11.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 12.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 12.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 12.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 12.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 12.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 12.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 12.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 12.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 12.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 12.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 13.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 13.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 13.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 13.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 13.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 13.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 13.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 13.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 13.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 13.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 14.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 14.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 14.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 14.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 14.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 14.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 14.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 14.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 14.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 14.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 15.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 15.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 15.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 15.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 15.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 15.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 15.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 15.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 15.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 15.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 16.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 16.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 16.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 16.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 16.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 16.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 16.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 16.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 16.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 16.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 17.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 17.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 17.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 17.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 17.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 17.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 17.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 17.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 17.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 17.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 18.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 18.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 18.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 18.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 18.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 18.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 18.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 18.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 18.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 18.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 19.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 19.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 19.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 19.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 19.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 19.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 19.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 19.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 19.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 19.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 20.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 20.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 20.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 20.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 20.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 20.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 20.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 20.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 20.8,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 20.9,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 21.0,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 21.1,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 21.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 21.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 21.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 21.5,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 21.6,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 21.7,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 21.8,
+    "choke_percent": 13.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 21.9,
+    "choke_percent": 13.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 22.0,
+    "choke_percent": 13.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 22.1,
+    "choke_percent": 13.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 22.2,
+    "choke_percent": 13.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 22.3,
+    "choke_percent": 16.5,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 22.4,
+    "choke_percent": 19.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 22.5,
+    "choke_percent": 19.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 22.6,
+    "choke_percent": 19.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 22.7,
+    "choke_percent": 19.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 22.8,
+    "choke_percent": 23.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 22.9,
+    "choke_percent": 20.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 23.0,
+    "choke_percent": 20.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 23.1,
+    "choke_percent": 20.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 23.2,
+    "choke_percent": 23.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 23.3,
+    "choke_percent": 23.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 23.4,
+    "choke_percent": 23.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 23.5,
+    "choke_percent": 23.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 23.6,
+    "choke_percent": 23.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 23.7,
+    "choke_percent": 23.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 23.8,
+    "choke_percent": 26.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 23.9,
+    "choke_percent": 26.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 24.0,
+    "choke_percent": 29.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 24.1,
+    "choke_percent": 29.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 24.2,
+    "choke_percent": 26.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 24.3,
+    "choke_percent": 27.0,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 24.4,
+    "choke_percent": 27.0,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 24.5,
+    "choke_percent": 27.0,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 24.6,
+    "choke_percent": 27.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 24.7,
+    "choke_percent": 27.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 24.8,
+    "choke_percent": 27.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 24.9,
+    "choke_percent": 27.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 25.0,
+    "choke_percent": 27.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 25.1,
+    "choke_percent": 27.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 25.2,
+    "choke_percent": 26.0,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 25.3,
+    "choke_percent": 26.0,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 25.4,
+    "choke_percent": 22.6,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 25.5,
+    "choke_percent": 22.6,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 25.6,
+    "choke_percent": 22.6,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 25.7,
+    "choke_percent": 22.6,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 25.8,
+    "choke_percent": 22.6,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 25.9,
+    "choke_percent": 22.6,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 26.0,
+    "choke_percent": 21.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 26.1,
+    "choke_percent": 21.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 26.2,
+    "choke_percent": 21.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 26.3,
+    "choke_percent": 21.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 26.4,
+    "choke_percent": 24.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 26.5,
+    "choke_percent": 24.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 26.6,
+    "choke_percent": 24.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 26.7,
+    "choke_percent": 24.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 26.8,
+    "choke_percent": 20.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 26.9,
+    "choke_percent": 20.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 27.0,
+    "choke_percent": 23.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 27.1,
+    "choke_percent": 23.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 27.2,
+    "choke_percent": 20.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 27.3,
+    "choke_percent": 20.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 27.4,
+    "choke_percent": 19.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 27.5,
+    "choke_percent": 19.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 27.6,
+    "choke_percent": 16.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 27.7,
+    "choke_percent": 16.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 27.8,
+    "choke_percent": 16.4,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 27.9,
+    "choke_percent": 16.4,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 28.0,
+    "choke_percent": 16.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 28.1,
+    "choke_percent": 16.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 28.2,
+    "choke_percent": 19.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 28.3,
+    "choke_percent": 19.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 28.4,
+    "choke_percent": 22.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 28.5,
+    "choke_percent": 22.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 28.6,
+    "choke_percent": 25.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 28.7,
+    "choke_percent": 25.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 28.8,
+    "choke_percent": 26.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 28.9,
+    "choke_percent": 26.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 29.0,
+    "choke_percent": 28.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 29.1,
+    "choke_percent": 28.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 29.2,
+    "choke_percent": 28.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 29.3,
+    "choke_percent": 28.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 29.4,
+    "choke_percent": 28.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 29.5,
+    "choke_percent": 31.1,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 29.6,
+    "choke_percent": 31.1,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 29.7,
+    "choke_percent": 31.1,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 29.8,
+    "choke_percent": 31.5,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 29.9,
+    "choke_percent": 31.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 30.0,
+    "choke_percent": 31.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 30.1,
+    "choke_percent": 31.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 30.2,
+    "choke_percent": 28.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 30.3,
+    "choke_percent": 28.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 30.4,
+    "choke_percent": 28.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 30.5,
+    "choke_percent": 28.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 30.6,
+    "choke_percent": 28.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 30.7,
+    "choke_percent": 28.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 30.8,
+    "choke_percent": 26.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 30.9,
+    "choke_percent": 26.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 31.0,
+    "choke_percent": 23.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 31.1,
+    "choke_percent": 23.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 31.2,
+    "choke_percent": 21.0,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 31.3,
+    "choke_percent": 21.0,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 31.4,
+    "choke_percent": 18.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 31.5,
+    "choke_percent": 15.2,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 31.6,
+    "choke_percent": 15.2,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 31.7,
+    "choke_percent": 12.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 31.8,
+    "choke_percent": 12.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 31.9,
+    "choke_percent": 12.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 32.0,
+    "choke_percent": 10.5,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 32.1,
+    "choke_percent": 10.5,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 32.2,
+    "choke_percent": 8.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 32.3,
+    "choke_percent": 8.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 32.4,
+    "choke_percent": 5.4,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 32.5,
+    "choke_percent": 5.4,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 32.6,
+    "choke_percent": 2.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 32.7,
+    "choke_percent": 2.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 32.8,
+    "choke_percent": 2.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 32.9,
+    "choke_percent": 2.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 33.0,
+    "choke_percent": 2.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 33.1,
+    "choke_percent": 2.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 33.2,
+    "choke_percent": 2.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 33.3,
+    "choke_percent": 2.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 33.4,
+    "choke_percent": 2.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 33.5,
+    "choke_percent": 2.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 33.6,
+    "choke_percent": 2.2,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 33.7,
+    "choke_percent": 2.2,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 33.8,
+    "choke_percent": 2.2,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 33.9,
+    "choke_percent": 2.2,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 34.0,
+    "choke_percent": 2.2,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 34.1,
+    "choke_percent": 2.2,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 34.2,
+    "choke_percent": 13.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 34.3,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 34.4,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 34.5,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 34.6,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 34.7,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 34.8,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 34.9,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 35.0,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 35.1,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 35.2,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 35.3,
+    "choke_percent": 13.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 35.4,
+    "choke_percent": 13.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 35.5,
+    "choke_percent": 13.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 35.6,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 35.7,
+    "choke_percent": 4.3,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 35.8,
+    "choke_percent": 6.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 35.9,
+    "choke_percent": 6.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 36.0,
+    "choke_percent": 6.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 36.1,
+    "choke_percent": 8.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 36.2,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 36.3,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 36.4,
+    "choke_percent": 10.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 36.5,
+    "choke_percent": 35.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 36.6,
+    "choke_percent": 8.5,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 36.7,
+    "choke_percent": 8.5,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 36.8,
+    "choke_percent": 8.5,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 36.9,
+    "choke_percent": 8.5,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 37.0,
+    "choke_percent": 28.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 37.1,
+    "choke_percent": 28.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 37.2,
+    "choke_percent": 38.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 37.3,
+    "choke_percent": 88.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 37.4,
+    "choke_percent": 8.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 37.5,
+    "choke_percent": 8.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 37.6,
+    "choke_percent": 8.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 37.7,
+    "choke_percent": 8.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 37.8,
+    "choke_percent": 8.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 37.9,
+    "choke_percent": 8.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 38.0,
+    "choke_percent": 12.1,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 38.1,
+    "choke_percent": 12.1,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 38.2,
+    "choke_percent": 12.1,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 38.3,
+    "choke_percent": 15.6,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 38.4,
+    "choke_percent": 19.2,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 38.5,
+    "choke_percent": 19.2,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 38.6,
+    "choke_percent": 21.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 38.7,
+    "choke_percent": 21.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 38.8,
+    "choke_percent": 22.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 38.9,
+    "choke_percent": 22.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 39.0,
+    "choke_percent": 23.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 39.1,
+    "choke_percent": 23.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 39.2,
+    "choke_percent": 27.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 39.3,
+    "choke_percent": 27.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 39.4,
+    "choke_percent": 31.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 39.5,
+    "choke_percent": 31.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 39.6,
+    "choke_percent": 36.1,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 39.7,
+    "choke_percent": 36.1,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 39.8,
+    "choke_percent": 43.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 39.9,
+    "choke_percent": 43.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 40.0,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 40.1,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 40.2,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 40.3,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 40.4,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 40.5,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 40.6,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 40.7,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 40.8,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 40.9,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 41.0,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 41.1,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 41.2,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 41.3,
+    "choke_percent": 47.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 41.4,
+    "choke_percent": 43.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 41.5,
+    "choke_percent": 43.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 41.6,
+    "choke_percent": 43.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 41.7,
+    "choke_percent": 43.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 41.8,
+    "choke_percent": 42.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 41.9,
+    "choke_percent": 42.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 42.0,
+    "choke_percent": 38.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 42.1,
+    "choke_percent": 36.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 42.2,
+    "choke_percent": 35.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 42.3,
+    "choke_percent": 34.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 42.4,
+    "choke_percent": 32.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 42.5,
+    "choke_percent": 32.7,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 42.6,
+    "choke_percent": 30.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 42.7,
+    "choke_percent": 30.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 42.8,
+    "choke_percent": 30.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 42.9,
+    "choke_percent": 30.8,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 43.0,
+    "choke_percent": 25.6,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 43.1,
+    "choke_percent": 25.6,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 43.2,
+    "choke_percent": 22.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 43.3,
+    "choke_percent": 22.4,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 43.4,
+    "choke_percent": 25.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 43.5,
+    "choke_percent": 25.2,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 43.6,
+    "choke_percent": 24.5,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 43.7,
+    "choke_percent": 24.5,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 43.8,
+    "choke_percent": 24.5,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 43.9,
+    "choke_percent": 24.5,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 44.0,
+    "choke_percent": 26.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 44.1,
+    "choke_percent": 26.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 44.2,
+    "choke_percent": 26.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 44.3,
+    "choke_percent": 26.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 44.4,
+    "choke_percent": 23.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 44.5,
+    "choke_percent": 23.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 44.6,
+    "choke_percent": 23.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 44.7,
+    "choke_percent": 23.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 44.8,
+    "choke_percent": 23.9,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 44.9,
+    "choke_percent": 22.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 45.0,
+    "choke_percent": 22.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 45.1,
+    "choke_percent": 22.3,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 45.2,
+    "choke_percent": 22.6,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 45.3,
+    "choke_percent": 22.6,
+    "raw_label": "WARNING"
+  },
+  {
+    "t": 45.4,
+    "choke_percent": 19.6,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 45.5,
+    "choke_percent": 19.6,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 45.6,
+    "choke_percent": 16.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 45.7,
+    "choke_percent": 16.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 45.8,
+    "choke_percent": 13.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 45.9,
+    "choke_percent": 13.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 46.0,
+    "choke_percent": 13.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 46.1,
+    "choke_percent": 13.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 46.2,
+    "choke_percent": 15.6,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 46.3,
+    "choke_percent": 15.6,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 46.4,
+    "choke_percent": 12.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 46.5,
+    "choke_percent": 12.8,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 46.6,
+    "choke_percent": 12.5,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 46.7,
+    "choke_percent": 12.5,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 46.8,
+    "choke_percent": 12.5,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 46.9,
+    "choke_percent": 12.5,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 47.0,
+    "choke_percent": 10.1,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 47.1,
+    "choke_percent": 10.1,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 47.2,
+    "choke_percent": 10.1,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 47.3,
+    "choke_percent": 10.1,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 47.4,
+    "choke_percent": 12.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 47.5,
+    "choke_percent": 12.0,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 47.6,
+    "choke_percent": 11.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 47.7,
+    "choke_percent": 11.7,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 47.8,
+    "choke_percent": 14.4,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 47.9,
+    "choke_percent": 14.4,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 48.0,
+    "choke_percent": 17.6,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 48.1,
+    "choke_percent": 17.6,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 48.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 48.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 48.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 48.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 48.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 48.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 48.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 48.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 49.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 49.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 49.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 49.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 49.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 49.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 49.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 49.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 49.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 49.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 50.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 50.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 50.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 50.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 50.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 50.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 50.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 50.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 50.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 50.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 51.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 51.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 51.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 51.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 51.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 51.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 51.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 51.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 51.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 51.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 52.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 52.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 52.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 52.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 52.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 52.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 52.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 52.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 52.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 52.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 53.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 53.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 53.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 53.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 53.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 53.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 53.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 53.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 53.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 53.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 54.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 54.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 54.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 54.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 54.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 54.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 54.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 54.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 54.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 54.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 55.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 55.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 55.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 55.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 55.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 55.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 55.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 55.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 55.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 55.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 56.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 56.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 56.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 56.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 56.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 56.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 56.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 56.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 56.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 56.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 57.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 57.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 57.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 57.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 57.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 57.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 57.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 57.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 57.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 57.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 58.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 58.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 58.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 58.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 58.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 58.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 58.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 58.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 58.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 58.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 59.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 59.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 59.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 59.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 59.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 59.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 59.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 59.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 59.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 59.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 60.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 60.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 60.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 60.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 60.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 60.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 60.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 60.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 60.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 60.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 61.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 61.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 61.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 61.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 61.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 61.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 61.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 61.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 61.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 61.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 62.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 62.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 62.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 62.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 62.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 62.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 62.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 62.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 62.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 62.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 63.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 63.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 63.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 63.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 63.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 63.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 63.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 63.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 63.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 63.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 64.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 64.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 64.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 64.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 64.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 64.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 64.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 64.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 64.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 64.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 65.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 65.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 65.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 65.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 65.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 65.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 65.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 65.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 65.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 65.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 66.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 66.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 66.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 66.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 66.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 66.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 66.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 66.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 66.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 66.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 67.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 67.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 67.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 67.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 67.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 67.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 67.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 67.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 67.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 67.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 68.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 68.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 68.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 68.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 68.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 68.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 68.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 68.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 68.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 68.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 69.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 69.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 69.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 69.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 69.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 69.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 69.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 69.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 69.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 69.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 70.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 70.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 70.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 70.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 70.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 70.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 70.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 70.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 70.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 70.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 71.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 71.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 71.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 71.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 71.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 71.5,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 71.6,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 71.7,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 71.8,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 71.9,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 72.0,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 72.1,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 72.2,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 72.3,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  },
+  {
+    "t": 72.4,
+    "choke_percent": 17.9,
+    "raw_label": "NORMAL"
+  }
+]
